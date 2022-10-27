@@ -30,7 +30,7 @@ html {
 @font-face{
 
     font-family:'Krub';
-    src:url('/assets/Fuentes/Krub-ExtraLightItalic.ttf');
+    src:url('/assets/Fuentes/Krub-BoldItalic.ttf');
     font-weight: 900px;
     font-style:italic;
     font-stretch: condensed;
